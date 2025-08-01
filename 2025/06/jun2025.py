@@ -543,7 +543,7 @@ class PartialBoard:
         return None
 
 def main():
-    print("####### Janestreet Puzzle - June 2025 #######\n")
+    print("####### Jane Street Puzzle - June 2025 #######\n")
     # Solve each of the 9 partridge puzzles and collect the position of the 
     # 1-tile for each
     one_tiles = []
