@@ -8,3 +8,5 @@ Solutions to [Jane Street monthly puzzles](https://www.janestreet.com/puzzles/)
 [July 2025](2025/07/) - Robot Road Trip (Python)
 
 [September 2025](2025/09/) - Hooks 11 (Rust)
+
+[October 2025](2025/10/) - Robot Baseball (Python)
