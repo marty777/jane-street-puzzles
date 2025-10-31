@@ -77,7 +77,7 @@ With the equilibrium mixed strategy given by:
 
 $$p_B = p_P = \frac{1}{4p + 1}$$
 
-The expected payout values of outcomes of other pitch states in the at-bat are more complicated, because the expected value of the payout of each outcome is partly dependent on the distribution of outcomes of possible subsequent pitches, which in turn depend on the equilibrium strategies of the players during those pitches. A recursive approach the propagates the solved probabilities of outcomes of subsequent states, starting from the full count state, to preceding states can successfully determine the strategies at each pitch state.
+The expected payout values of outcomes of other pitch states in the at-bat are more complicated, because the expected value of the payout of each outcome is partly dependent on the distribution of outcomes of possible subsequent pitches, which in turn depend on the equilibrium strategies of the players during those pitches. A recursive approach that propagates the solved probabilities of outcomes of subsequent states, starting from the full count state, to preceding states can successfully determine the strategies at each pitch state.
 
 Once the strategies for each possible pitch state given $p$ are determined, it's straightforward to calculate the transition probabilities between each pitch state and so a Markov model of the at-bat can be constructed.
 
