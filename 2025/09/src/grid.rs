@@ -348,7 +348,8 @@ pub struct Pentomino {
 impl Hash for Pentomino {
 	fn hash<H: Hasher>(&self, state: &mut H) {
 		let mut bits:usize = 0;
-		let normalized = self.clone().normalize();
+		let mut normalized = self.clone();
+		normalized.normalize();
 		for y in 0..5 {
 			for x in 0..5 {
 				if normalized.cells.contains(&Coord::new(x,y)) {
