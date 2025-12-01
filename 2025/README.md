@@ -7,3 +7,5 @@
 [September 2025](09/) - Hooks 11 (Rust)
 
 [October 2025](10/) - Robot Baseball (Python)
+
+[November 2025](11/) - Shut the Box (Rust)
