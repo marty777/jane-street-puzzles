@@ -12,3 +12,5 @@ Solutions to [Jane Street monthly puzzles](https://www.janestreet.com/puzzles/)
 [October 2025](2025/10/) - Robot Baseball (Python)
 
 [November 2025](2025/11/) - Shut the Box (Rust)
+
+[December 2025](2025/12/) - Robot Javelin
