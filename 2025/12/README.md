@@ -42,7 +42,7 @@ Suppose two players $A$ and $B$ play with strategies $c_A$ and $c_B$, with $c_A 
 
 - If player $A$ keeps the first throw and player $B$ rethrows (with probability $(1 - c_A) \cdot c_B$), the win probability of player $A$ is $c_A + \frac{1-c_A}{2}$ since the $A$ throw is uniformly distributed on $[c_A,1]$ and the $B$ throw is uniformly distributed on $[0,1]$.
 
-- If player $A$ rethrows and player $B$ keeps the first throw (with probability $c_A \cdot (1 - c_B)$), the win probability of player $A$ is $\frac{1  -c_B}{2}$ since the $A$ throw is uniformly distributed on $[0,1]$ and the $B$ throw is uniformly distributed on $[c_B,1]$.
+- If player $A$ rethrows and player $B$ keeps the first throw (with probability $c_A \cdot (1 - c_B)$ ), the win probability of player $A$ is $\frac{1  -c_B}{2}$ since the $A$ throw is uniformly distributed on $[0,1]$ and the $B$ throw is uniformly distributed on $[c_B,1]$.
 
 - If neither player rethrows (with probability $(1 - c_A) \cdot (1 - c_B)$ ), the $A$ throw is uniformly distributed on $[c_A,1]$ and the $B$ throw is uniformly distributed on $[c_B,1]$. Since $c_A < c_B$, the win probabilty of player $A$ is $\frac{1 - c_B}{2}\cdot \frac{1}{1 - c_A}$
 
