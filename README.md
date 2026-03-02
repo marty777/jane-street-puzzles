@@ -1,7 +1,7 @@
 # jane-street-puzzles
 Solutions to [Jane Street monthly puzzles](https://www.janestreet.com/puzzles/)
 
-## 2025
+## 2026
 
 [February 2026](2026/02/) - Subtiles 2 (Rust)
 
