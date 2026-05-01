@@ -5,6 +5,8 @@ Solutions to [Jane Street monthly puzzles](https://www.janestreet.com/puzzles/)
 
 [February 2026](2026/02/) - Subtiles 2 (Rust)
 
+[April 2026](2026/04/) - Can U Dig It?
+
 ## 2025
 
 [June 2025](2025/06/) - Some Ones, Somewhere (Python)
