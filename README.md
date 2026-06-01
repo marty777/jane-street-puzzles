@@ -7,6 +7,8 @@ Solutions to [Jane Street monthly puzzles](https://www.janestreet.com/puzzles/)
 
 [April 2026](2026/04/) - Can U Dig It?
 
+[May 2026](2026/05/) - Arch Madness
+
 ## 2025
 
 [June 2025](2025/06/) - Some Ones, Somewhere (Python)
