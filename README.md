@@ -7,7 +7,7 @@ Solutions to [Jane Street monthly puzzles](https://www.janestreet.com/puzzles/)
 
 [April 2026](2026/04/) - Can U Dig It?
 
-[May 2026](2026/05/) - Arch Madness
+[May 2026](2026/05/) - Arch Madness (Rust)
 
 ## 2025
 
