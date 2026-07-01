@@ -9,6 +9,8 @@ Solutions to [Jane Street monthly puzzles](https://www.janestreet.com/puzzles/)
 
 [May 2026](2026/05/) - Arch Madness (Rust)
 
+[June 2026](2026/06/) - Regional Artwork
+
 ## 2025
 
 [June 2025](2025/06/) - Some Ones, Somewhere (Python)
