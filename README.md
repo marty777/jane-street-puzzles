@@ -11,7 +11,9 @@ Solutions to [Jane Street monthly puzzles](https://www.janestreet.com/puzzles/)
 
 [June 2026](2026/06/) - Regional Artwork
 
-[July 2026](2026/07/) - ‘Pent-Up’ Frustration 3 / Knight Moves 7
+[July 2026](2026/07/) - ‘Pent-Up’ Frustration 3 / Knight Moves 7 (Rust)
+
+[August 2026](2026/08/) - Andy's Afternoon Amble
 
 ## 2025
 
