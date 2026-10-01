@@ -15,6 +15,8 @@ Solutions to [Jane Street monthly puzzles](https://www.janestreet.com/puzzles/)
 
 [August 2026](2026/08/) - Andy's Afternoon Amble
 
+[September 2026](2026/09/) - Hint Singles
+
 ## 2025
 
 [June 2025](2025/06/) - Some Ones, Somewhere (Python)
